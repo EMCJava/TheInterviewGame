@@ -1,0 +1,32 @@
+{
+  "config": [
+    {
+      "name": "MhUpAttack",
+      "color": "#00B6FF",
+      "displayName": "Up\nAttack",
+      "characterName": "MaterialHero",
+      "actorName": "Attack.MhUpAttack"
+    },
+    {
+      "name": "MhDownAttack",
+      "color": "#00B6FF",
+      "displayName": "Down\nAttack",
+      "characterName": "MaterialHero",
+      "actorName": "Attack.MhDownAttack"
+    },
+    {
+      "name": "MhUpAttackAlt",
+      "color": "#00FF79",
+      "displayName": "Up\nAttack",
+      "characterName": "MaterialHeroAlt",
+      "actorName": "Attack.MhUpAttack"
+    },
+    {
+      "name": "MhDownAttackAlt",
+      "color": "#00FF79",
+      "displayName": "Down\nAttack",
+      "characterName": "MaterialHeroAlt",
+      "actorName": "Attack.MhDownAttack"
+    }
+  ]
+}
